@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">realme Store</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Starting">realme was officially founded on May 4, 2018 by Sky Li. realme focuses on user needs and presents products with strong performance and trendy designs for young people. realme is committed to becoming a technology trendsetting.
+
+Always providing sophisticated smartphones and AIoT, realme always provides the best products with the latest technology and trendy designs. realme also always strives to offer a trendy experience at an affordable price.</string>
+    <string name="dare_to_leap">Dare to Leap</string>
+</resources>
